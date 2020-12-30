@@ -1,5 +1,5 @@
 from flask import Flask, render_template, Response,request
-import cv2
+import pafy
 
 
 app = Flask(__name__)
