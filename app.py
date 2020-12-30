@@ -1,11 +1,5 @@
 from flask import Flask
-import cv2
-import sys
-import json
-import numpy as np
-import time
-import mediapipe as mp
-import pafy
+
 
 app = Flask(__name__)
 
