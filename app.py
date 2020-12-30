@@ -1,4 +1,4 @@
-from flask import Flask,render_template, Response,request
+from flask import Flask
 import cv2
 import sys
 import json
