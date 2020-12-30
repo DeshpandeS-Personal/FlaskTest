@@ -1,5 +1,4 @@
 from flask import Flask, render_template, Response,request
-import pafy
 
 
 app = Flask(__name__)
