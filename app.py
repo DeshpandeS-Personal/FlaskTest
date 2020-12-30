@@ -1,5 +1,5 @@
 from flask import Flask, render_template, Response,request
-import mediapipe as mp
+import pafy
 
 
 app = Flask(__name__)
