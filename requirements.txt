@@ -12,3 +12,15 @@ opencv-python==4.4.0.46
 protobuf==3.14.0
 six==1.15.0
 Werkzeug==1.0.1
+enum-compat==0.0.2
+enum34==1.1.6
+eventlet==0.20.0
+Flask-SocketIO
+gevent==1.2.2
+gevent-websocket==0.10.1
+greenlet==0.4.12
+olefile==0.44
+Pillow==4.2.1
+python-engineio==1.7.0
+python-socketio==1.7.7
+redis==2.10.5
